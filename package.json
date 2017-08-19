@@ -4,9 +4,9 @@
   "description": "A project to showcase workflows",
   "repository": {
     "type": "git",
-    "url": "https://github.com/planetoftheweb/workflows.git"
+    "url": "https://github.com/wojtekide/zzzblabla"
   },
-  "author": "Ray Villalobos",
+  "author": "Wojciech",
   "devDependencies": {
     "gulp": "^3.6.2",
     "gulp-util": "^2.2.14",
